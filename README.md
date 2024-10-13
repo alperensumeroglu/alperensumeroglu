@@ -81,4 +81,4 @@ I am a Computer Engineer student <img src="https://media.giphy.com/media/unxCGmT
   <img src="https://github-readme-stats.vercel.app/api?username=BuseBeker&show_icons=true&theme=radical" alt="BuseBeker" />
 </div>
 
-![github-contribution-grid-snake](https://github-contribution-grid-snake-dark.svg)
+![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
