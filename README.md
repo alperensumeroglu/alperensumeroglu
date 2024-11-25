@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
 
-  <div id="badges">
+  <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/alperensumeroglu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
   </a>
@@ -23,24 +23,24 @@
 
 ---
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+
 ### :man_technologist: About Me :
-I am a Computer Engineer student <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="30"> from Turkey.
-
-- 🎓 I am currently studying at university, focusing on programming and software development.
-- :telescope: I am interested in Python programming, C, and C#.
-- :zap: In my free time, I enjoy reading tech articles and improving my coding skills.
-- 🖥️  I love writing code and learning new technologies.
-- :mailbox: How to reach me: [alperennsumeroglu@gmail.com](mailto:alperennsumeroglu@gmail.com)
+<div>
+- 🎓 I am currently studying at university, focusing on programming and software development.<br>
+- :telescope: I am interested in Python programming, C, and C#.<br>
+- :zap: In my free time, I enjoy reading tech articles and improving my coding skills.<br>
+- 🖥️ I love writing code and learning new technologies.<br>
+- :mailbox: How to reach me: [alperennsumeroglu@gmail.com](mailto:alperennsumeroglu@gmail.com)<br>
 - 🌐 My website: [alperensumeroglu](https://bento.me/alperensumeroglu?fbclid=PAZXh0bgNhZW0CMTEAAabevZa9hfkoZ8pw51zu0tGwBFCldhYxIdbUWfmkTA8a6Ql5WTsDOBFT_oQ_aem_rbqIPC1dud-w6VsylGCoNQ)
-
----
+</div>
 
 ### :hammer_and_wrench: Languages & Frameworks & Tools :
-
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+</div>
 </div>
 
 ---
