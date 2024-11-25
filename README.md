@@ -1,21 +1,47 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Right Side (Header Content) -->
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
 
-  <div id="badges" style="display: flex; justify-content: center; gap: 0px; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/alperensumeroglu/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
-    </a>
-    <a href="https://www.instagram.com/alperen_sumeroglu/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100"/>
-    </a>
-    <a href="https://medium.com/@alperensumeroglu">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" width="85"/>
-    </a>
-    <a href="mailto:alperensumeroglu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="70"/>
-    </a>
+    <div id="badges" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+      <a href="https://www.linkedin.com/in/alperensumeroglu/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+      </a>
+      <a href="https://www.instagram.com/alperen_sumeroglu/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100"/>
+      </a>
+      <a href="https://medium.com/@alperensumeroglu">
+        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" width="85"/>
+      </a>
+      <a href="mailto:alperensumeroglu@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="70"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- Left Side (Discard Content) -->
+  <div style="margin-left: 20px; text-align: left;">
+    <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; width: 300px; color: white;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="path-to-your-profile-image.png" alt="Profile Picture" style="border-radius: 50%; width: 80px; height: 80px;"/>
+        <p style="margin: 10px 0; font-weight: bold;">Alperen Sümeroğlu</p>
+      </div>
+      <div style="text-align: center; margin-top: 10px;">
+        <span style="display: block; font-size: 12px;">Reputation: 10</span>
+        <span style="display: block; font-size: 12px;">Longest Streak: 71</span>
+        <span style="display: block; font-size: 12px;">Posts Read: 310</span>
+      </div>
+      <div style="margin-top: 15px; text-align: center;">
+        <span>#machine-learning</span><br/>
+        <span>#python</span><br/>
+        <span>#ai</span><br/>
+        <span>#career</span><br/>
+        <span>#data-science</span>
+      </div>
+    </div>
   </div>
 </div>
+
 
 ---
 
