@@ -19,14 +19,13 @@
 
 ---
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <!-- Daily.dev card -->
-  <div>
-    <a href="https://app.daily.dev/alperensumeroglu">
-      <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card"/>
-    </a>
-  </div>
+  <a href="https://app.daily.dev/alperensumeroglu">
+    <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card"/>
+  </a>
 </div>
+
 
   <!-- About Me Section -->
   <div>
