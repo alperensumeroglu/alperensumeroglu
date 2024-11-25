@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/alperensumeroglu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
   </a>
   <a href="https://www.instagram.com/alperen_sumeroglu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="80"/>
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 </h3>
 
 <a href="https://app.daily.dev/alperensumeroglu">
-  <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="356" alt="Alperen Sümeroğlu's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="300" alt="Alperen Sümeroğlu's Dev Card"/>
 </a>
 
 </div>
@@ -54,6 +54,9 @@ I am a Computer Engineer student <img src="https://media.giphy.com/media/unxCGmT
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperensumeroglu&theme=dark&background=000000" alt="alperensumeroglu" /></p>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" /> </p>
-</details>
 
-![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
+  ### 🐍 Snake Game (Contribution Graph)
+  <p align="center">
+    <img src="https://github.com/alperensumeroglu/alperensumeroglu/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  </p>
+</details>
