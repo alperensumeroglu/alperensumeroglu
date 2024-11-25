@@ -1,18 +1,3 @@
-<!--
-**alperensumeroglu/alperensumeroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 
@@ -25,12 +10,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=alperensumeroglu&style=flat-square&color=blue" alt=""/>
-
-<h1>
-  HEY THERE
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h3>
+  HEY THERE!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+</h3>
 
 <a href="https://app.daily.dev/alperensumeroglu">
   <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="356" alt="Alperen Sümeroğlu's Dev Card"/>
@@ -62,14 +45,31 @@ I am a Computer Engineer student <img src="https://media.giphy.com/media/unxCGmT
 
 ---
 
-### :fire: My Stats :fire:
+### <button onclick="toggleStats()">More click 👇</button>
+
+<div id="hidden-stats" style="display:none;">
+<h3>🔥 My Stats 🔥</h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=alperensumeroglu&theme=dark&background=000000" alt="alperensumeroglu" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&style=flat-square&color=blue" alt="Profile views" />
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&theme=vision-friendly-dark" alt="alperensumeroglu" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&show_icons=true&theme=radical" alt="alperensumeroglu" />
 </div>
+</div>
+
+<script>
+function toggleStats() {
+  var stats = document.getElementById("hidden-stats");
+  if (stats.style.display === "none") {
+    stats.style.display = "block";
+  } else {
+    stats.style.display = "none";
+  }
+}
+</script>
 
 ![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
