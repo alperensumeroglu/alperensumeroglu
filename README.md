@@ -17,30 +17,6 @@
   </div>
 </div>
 
-  <!-- Left Side (Discard Content) -->
-  <div style="margin-left: 20px; text-align: left;">
-    <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; width: 300px; color: white;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="path-to-your-profile-image.png" alt="Profile Picture" style="border-radius: 50%; width: 80px; height: 80px;"/>
-        <p style="margin: 10px 0; font-weight: bold;">Alperen Sümeroğlu</p>
-      </div>
-      <div style="text-align: center; margin-top: 10px;">
-        <span style="display: block; font-size: 12px;">Reputation: 10</span>
-        <span style="display: block; font-size: 12px;">Longest Streak: 71</span>
-        <span style="display: block; font-size: 12px;">Posts Read: 310</span>
-      </div>
-      <div style="margin-top: 15px; text-align: center;">
-        <span>#machine-learning</span><br/>
-        <span>#python</span><br/>
-        <span>#ai</span><br/>
-        <span>#career</span><br/>
-        <span>#data-science</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
