@@ -62,8 +62,6 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" /> </p>
 
    🐍 Snake Game (Contribution Graph)
-  </details>
-
   ![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
   </p>
 </details>
