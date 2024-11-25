@@ -59,7 +59,7 @@
 ---
 
 <details align="center">
-  <summary>More click 👈🏻</summary>
+  <summary> Click to learn more 👈🏻</summary>
   
   ### 🔥 My Stats 🔥
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&show_icons=true&locale=en&theme=radical" alt="alperensumeroglu" /></p>
