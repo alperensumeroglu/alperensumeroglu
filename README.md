@@ -30,9 +30,10 @@
       <li>📌 I am interested in Python programming, C, and C#.</li>
       <li>⚡ In my free time, I enjoy reading tech articles and improving my coding skills.</li>
       <li>💻 I love writing code and learning new technologies.</li>
-      <li>📧 How to reach me: [alperennsumeroglu@gmail.com](mailto:alperennsumeroglu@gmail.com)</li>
-      <li>🌐 My website: [alperensumeroglu](https://bento.me/alperensumeroglu)</li>
-    </ul>
+      <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue;">alperensumeroglu@gmail.com</a></li>
+      <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue;">alperensumeroglu</a></li>
+   </ul>
+
   </div>
 
 </div>
