@@ -19,14 +19,14 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
-
+<div style="display: flex; justify-content: center; margin-top: 20px;">
   <!-- Daily.dev card -->
   <div>
     <a href="https://app.daily.dev/alperensumeroglu">
       <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card"/>
     </a>
   </div>
+</div>
 
   <!-- About Me Section -->
   <div>
