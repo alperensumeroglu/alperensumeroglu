@@ -22,8 +22,9 @@
     </a>
   </div>
 
-  <!-- About Me Section -->
-  <div>
+  <!-- About Me and Languages Section -->
+  <div style="flex-grow: 1;">
+    <!-- About Me Section -->
     <h2>About Me</h2>
     <ul>
       <li>🎓 I am currently studying at university, focusing on programming and software development.</li>
@@ -33,19 +34,14 @@
       <li>📧 How to reach me: [alperennsumeroglu@gmail.com](mailto:alperennsumeroglu@gmail.com)</li>
       <li>🌐 My website: [alperensumeroglu](https://bento.me/alperensumeroglu)</li>
     </ul>
-  </div>
 
-</div>
-
----
-
-<!-- Languages and Tools Section -->
-<div>
-  <h2 align="center">Languages & Frameworks & Tools</h2>
-  <div align="center" style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+    <!-- Languages & Tools Section -->
+    <h2>Languages & Frameworks & Tools</h2>
+    <div style="display: flex; justify-content: flex-start; gap: 15px; margin-top: 10px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+    </div>
   </div>
 </div>
 
