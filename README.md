@@ -45,31 +45,15 @@ I am a Computer Engineer student <img src="https://media.giphy.com/media/unxCGmT
 
 ---
 
-### <button onclick="toggleStats()">More click 👇</button>
+<details align="center">
+  <summary>More click 👈🏻</summary>
+  
+  ### 🔥 My Stats 🔥
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&show_icons=true&locale=en&theme=radical" alt="alperensumeroglu" /></p>
 
-<div id="hidden-stats" style="display:none;">
-<h3>🔥 My Stats 🔥</h3>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alperensumeroglu&theme=dark&background=000000" alt="alperensumeroglu" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&style=flat-square&color=blue" alt="Profile views" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&theme=vision-friendly-dark" alt="alperensumeroglu" /> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&show_icons=true&theme=radical" alt="alperensumeroglu" />
-</div>
-</div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperensumeroglu&theme=dark&background=000000" alt="alperensumeroglu" /></p>
 
-<script>
-function toggleStats() {
-  var stats = document.getElementById("hidden-stats");
-  if (stats.style.display === "none") {
-    stats.style.display = "block";
-  } else {
-    stats.style.display = "none";
-  }
-}
-</script>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" /> </p>
+</details>
 
 ![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
