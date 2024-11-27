@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alperen Sümeroğlu</title>
-</head>
-<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; box-sizing: border-box;">
+# Alperen Sümeroğlu
+
+<div style="font-family: Arial, sans-serif; margin: 0; padding: 0; box-sizing: border-box;">
     <div id="header" style="text-align: center; margin-top: 20px;">
         <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80" alt="Alperen Sümeroğlu's Avatar"/>
       
@@ -27,7 +22,7 @@
 
     <div id="dailydev" style="display: flex; align-items: center; margin: 20px auto; max-width: 800px; gap: 20px;">
         <a href="https://app.daily.dev/alperensumeroglu">
-            <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card" style="border-radius: 10px; transition: transform 0.3s;" />
         </a>
         <div id="about-me" style="display: flex; flex-direction: column; max-width: 800px; margin: auto; padding: 10px;">
             <h2 style="text-align: center; margin-bottom: 20px;">About Me</h2>
@@ -36,10 +31,9 @@
                 <li style="margin: 10px 0; line-height: 1.6;">📌 I am interested in Python programming, C, and C#.</li>
                 <li style="margin: 10px 0; line-height: 1.6;">⚡ In my free time, I enjoy reading tech articles and improving my coding skills.</li>
                 <li style="margin: 10px 0; line-height: 1.6;">💻 I love writing code and learning new technologies.</li>
-                <li style="margin: 10px 0; line-height: 1.6;">📧 How to reach me: <a href="mailto:alperensumeroglu@gmail.com" style="color: blue; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">alperensumeroglu@gmail.com</a></li>
-                <li style="margin: 10px 0; line-height: 1.6;">🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color: blue; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">alperensumeroglu</a></li>
+                <li style="margin: 10px 0; line-height: 1.6;">📧 How to reach me: <a href="mailto:alperensumeroglu@gmail.com" style="color: blue; text-decoration: none;">alperensumeroglu@gmail.com</a></li>
+                <li style="margin: 10px 0; line-height: 1.6;">🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color: blue; text-decoration: none;">alperensumeroglu</a></li>
             </ul>
         </div>
     </div>
-</body>
-</html>
+</div>
