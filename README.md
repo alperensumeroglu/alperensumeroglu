@@ -61,10 +61,9 @@
   <summary> Click to learn more 👈🏻</summary>
   
   ### 🔥 My Stats 🔥
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&show_icons=true&locale=en&theme=radical" alt="alperensumeroglu" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperensumeroglu&theme=dark&background=000000" alt="alperensumeroglu" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" /></p>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" /> </p>
   
