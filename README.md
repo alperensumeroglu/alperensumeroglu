@@ -1,6 +1,6 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
-
+  
   <div id="badges" style="display: flex; justify-content: center; gap: 0px; margin-top: 10px;">
     <a href="https://www.linkedin.com/in/alperensumeroglu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
