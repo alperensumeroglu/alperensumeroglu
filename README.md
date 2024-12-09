@@ -1,9 +1,12 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="80"/>
- 
-  <div id="badges" style="display: flex; justify-content: center; gap: 0px; margin-top: 10px;">
+
+  <div id="badges" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
     <a href="https://www.linkedin.com/in/alperensumeroglu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+    </a>
+    <a href="https://leetcode.com/alperensumeroglu/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" width="100"/>
     </a>
     <a href="https://www.instagram.com/alperen_sumeroglu/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100"/>
