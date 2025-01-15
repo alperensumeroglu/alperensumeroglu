@@ -69,19 +69,20 @@
   <summary> Click to learn more 👈🏻</summary>
   
   ### 🔥 My Stats 🔥
-<p style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" style="width: 300px;"/>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 300px;"/>
+
+  <!-- Most Used Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 300px;"/>
+
+  <!-- Snake Animation -->
+  <img align="center" src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 300px;"/>
+</div>
+
+<!-- Profile Views -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 150px;"/>
 </p>
 
-<p style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" style="width: 300px;"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" style="width: 150px;"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake" style="width: 500px;"/>
-</p>
 
