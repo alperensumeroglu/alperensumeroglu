@@ -39,15 +39,15 @@
 </div>
 
   <!-- About Me Section -->
-  <div>
-  <h2 style="font-size: 20px;">About Me</h2>
-  <ul style="font-size: 14px; line-height: 1.6;">
+<div>
+  <h3 style="font-size: 16px;">About Me</h3>
+  <ul style="font-size: 12px; line-height: 1.4;">
     <li>🎓 I am currently studying at university, focusing on programming and software development.</li>
     <li>📌 I am interested in Python programming, C, and C#.</li>
     <li>⚡ In my free time, I enjoy reading tech articles and improving my coding skills.</li>
     <li>💻 I love writing code and learning new technologies.</li>
-    <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue; font-size: 14px;">alperensumeroglu@gmail.com</a></li>
-    <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue; font-size: 14px;">alperensumeroglu</a></li>
+    <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue; font-size: 12px;">alperensumeroglu@gmail.com</a></li>
+    <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue; font-size: 12px;">alperensumeroglu</a></li>
   </ul>
 </div>
 
@@ -55,7 +55,9 @@
 
 <!-- Languages and Tools Section -->
 <div>
-  <h2 align="center" style="font-size: 20px;">Languages & Frameworks & Tools</h2>
+  <h3 align="center" style="font-size: 16px;">Languages & Frameworks & Tools</h3>
+</div>
+
   <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35"/>&nbsp;
