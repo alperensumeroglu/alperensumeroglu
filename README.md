@@ -71,22 +71,21 @@
   <!-- My Stats Section -->
 <div style="text-align: center; margin-top: 20px;">
   <h3 style="font-size: 18px; margin-bottom: 10px;">🔥 My Stats 🔥</h3>
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 250px;"/>
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 300px;"/>
 
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 250px;"/>
+  <!-- Most Used Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 300px;"/>
 
-    <!-- Snake Animation -->
-    <img src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 250px;"/>
-  </div>
+  <!-- Snake Animation -->
+  <img align="center" src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 300px;"/>
 </div>
 
 <!-- Profile Views -->
-<p align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 100px;"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 150px;"/>
 </p>
+
 
 
 
