@@ -33,7 +33,7 @@
   </a>
 
   <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="400" />
+  <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="350" />
 </div>
 
   <!-- About Me Section -->
