@@ -29,11 +29,11 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <!-- Daily.dev card -->
   <a href="https://app.daily.dev/alperensumeroglu">
-    <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=wide&r=hez" width="450" alt="Alperen Sümeroğlu's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=wide&r=hez" width="350" alt="Alperen Sümeroğlu's Dev Card"/>
   </a>
 
   <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="350" />
+  <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="250" />
 </div>
 
   <!-- About Me Section -->
