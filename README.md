@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" style="height: 20px;"/>
   </a>
   <a href="https://medium.com/@alperensumeroglu">
-    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" style="height: 20px;"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" style="height: 20px; width: 80px;"/>
   </a>
   <a href="mailto:alperensumeroglu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="height: 20px;"/>
