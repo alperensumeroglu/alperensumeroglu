@@ -73,10 +73,10 @@
 <div style="text-align: center; margin-top: 20px;">
   <h3 style="font-size: 18px; margin-bottom: 10px;">🔥 My Stats 🔥</h3>
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 240px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 225px;"/>
 
 <!-- Most Used Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 240px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 225px;"/>
 
 <!-- Snake Animation -->
 <img align="center" src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 400px;"/>
