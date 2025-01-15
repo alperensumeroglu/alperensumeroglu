@@ -69,12 +69,19 @@
   <summary> Click to learn more 👈🏻</summary>
   
   ### 🔥 My Stats 🔥
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" /></p>
+<p style="text-align: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" style="width: 300px;"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" /></p>
+<p style="text-align: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="alperensumeroglu" style="width: 300px;"/>
+</p>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" /> </p>
-  
-  ![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
-  </p>
-</details>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="alperensumeroglu" style="width: 150px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake" style="width: 500px;"/>
+</p>
+
