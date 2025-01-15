@@ -29,7 +29,8 @@
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <!-- Daily.dev card -->
     <a href="https://app.daily.dev/alperensumeroglu">     <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=default&r=ufg" width="250" alt="Alperen Sümeroğlu's Dev Card"/>   </a> </div>
-
+<img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=light&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" />
+</span>
 
   <!-- About Me Section -->
   <div>
