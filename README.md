@@ -38,16 +38,17 @@
 <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="260" />
 </div>
 
-  <!-- About Me Section -->
+ <!-- About Me Section -->
+<!-- About Me Section -->
 <div>
-  <h3 style="font-size: 14px;">About Me</h3>
-  <ul style="font-size: 10px; line-height: 1.2;">
+  <h3 style="font-size: 10px;">About Me</h3>
+  <ul style="font-size: 6px; line-height: 1;">
     <li>🎓 I am currently studying at university, focusing on programming and software development.</li>
     <li>📌 I am interested in Python programming, C, and C#.</li>
     <li>⚡ In my free time, I enjoy reading tech articles and improving my coding skills.</li>
     <li>💻 I love writing code and learning new technologies.</li>
-    <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue; font-size: 10px;">alperensumeroglu@gmail.com</a></li>
-    <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue; font-size: 10px;">alperensumeroglu</a></li>
+    <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue; font-size: 6px;">alperensumeroglu@gmail.com</a></li>
+    <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue; font-size: 6px;">alperensumeroglu</a></li>
   </ul>
 </div>
 
