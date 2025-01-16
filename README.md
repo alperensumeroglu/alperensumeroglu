@@ -67,28 +67,29 @@
 ---
 
 <details align="center">
-  <summary style="text-align: center;">Click to learn more 👈🏻</summary>
-
-  <!-- Central Container for Stats -->
-  <div style="text-align: center; margin-top: 20px;">
-    <!-- My Stats Section -->
-    <h3 style="font-size: 18px; margin-bottom: 10px;">🔥 My Stats 🔥</h3>
+  <summary>Click to learn more 👈🏻</summary>
+  
+  <!-- Merkezlenmiş Tüm İçerik -->
+  <div align="center" style="margin-top: 20px;">
+    <!-- My Stats Başlığı -->
+    <h3>🔥 My Stats 🔥</h3>
     
     <!-- GitHub Stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 225px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="margin: 10px;"/>
 
     <!-- Most Used Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="width: 225px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensumeroglu&layout=compact&show_icons=true&theme=tokyonight&border_radius=20" alt="Most Used Languages" style="margin: 10px;"/>
 
     <!-- Snake Animation -->
-    <img align="center" src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 380px; margin: 20px;"/>
-  </div>
+  <img src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="margin: 20px;"/>
+</div>
 
   <!-- Profile Views -->
-  <p align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 80px;"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </p>
 </details>
+
 
 
 
