@@ -69,6 +69,9 @@
 <div style="text-align: center;">
   <details>
     <summary style="display: inline-block; cursor: pointer;">Click to learn more 👈🏻</summary>
+  <!-- My Stats Section -->
+<div style="text-align: center; margin-top: 20px;">
+  <h3 style="font-size: 18px; margin-bottom: 10px;">🔥 My Stats 🔥</h3>
   <!-- GitHub Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperensumeroglu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" style="width: 225px;"/>
 
