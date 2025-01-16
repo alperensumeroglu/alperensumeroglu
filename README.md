@@ -77,13 +77,11 @@
 
 <!-- Snake Animation -->
 <img align="center" src="https://github.com/alperensumeroglu/alperensumeroglu/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="width: 380px;"/>
-</div>
-
 <!-- Profile Views -->
 <p align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 80px;"/>
 </p>
-
+</div>
 
 
 
