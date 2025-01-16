@@ -66,8 +66,9 @@
 
 ---
 
-<details align="center">
-  <summary> Click to learn more 👈🏻</summary>
+<div style="text-align: center;">
+  <details>
+    <summary style="display: inline-block; cursor: pointer;">Click to learn more 👈🏻</summary>
   
   <!-- My Stats Section -->
 <div align="center" style="margin-top: 20px;">
