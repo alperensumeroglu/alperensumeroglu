@@ -35,9 +35,9 @@
 </a>
 
 <!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
-</div>
-
+<a href="https://leetcode.com/u/alperensumeroglu/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
+</a>
  <!-- About Me Section -->
 <div>
   <h3 style="font-size: 8px;">About Me</h3>
