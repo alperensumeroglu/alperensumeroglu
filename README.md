@@ -46,15 +46,15 @@
     <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
 </a>
 
-<h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>!  </h1>
-<p align='center'>
-</p>
+<h1>Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>!</h1>
 
-<div size='20px'>🌟 &nbsp;A passionate and result-oriented software developer with a relentless drive to innovate and deliver impactful solutions.</div>
-<div size='20px'>💡 &nbsp;Highly skilled in problem-solving, I thrive in transforming complex challenges into streamlined and efficient systems.</div>
-<div size='20px'>🚀 &nbsp;Dedicated to continuous improvement, I embrace emerging technologies to stay ahead in the tech industry.</div>
-<div size='20px'>📚 &nbsp;On a journey to master cutting-edge tools and frameworks, while mentoring others to achieve their goals.</div>
-<div size='20px'>🎯 &nbsp;My mission is to make a meaningful impact by leveraging technology to solve real-world problems effectively.</div> 
+<p align='center'></p>
+
+<div>🌟 &nbsp;A <b>passionate</b> and <b>result-oriented</b> software developer with a relentless drive to <b>innovate</b> and deliver <b>impactful solutions</b>.</div>
+<div>💡 &nbsp;<b>Problem-solving</b> expert, thriving in transforming <b>complex challenges</b> into <b>efficient systems</b>.</div>
+<div>🚀 &nbsp;<b>Continuous improvement</b> advocate, embracing <b>emerging technologies</b> to stay ahead in the <b>tech industry</b>.</div>
+<div>📚 &nbsp;On a journey to master <b>cutting-edge tools</b> and <b>frameworks</b>, while <b>mentoring</b> others to achieve their goals.</div>
+<div>🎯 &nbsp;Mission: To make a <b>meaningful impact</b> by leveraging <b>technology</b> to solve <b>real-world problems</b> effectively.</div>
 
 ---
 
