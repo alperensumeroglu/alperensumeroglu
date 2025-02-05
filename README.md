@@ -85,8 +85,8 @@
   <img src="https://komarev.com/ghpvc/?username=alperensumeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width: 100px;"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alperensumeroglu&theme=radical" alt="GitHub Streak Stats" width="300" />
-</p> 
+  <img src="https://streak-stats.demolab.com/?user=alperensumeroglu&theme=algolia" alt="GitHub Streak Stats" width="300" />
+</p>
 </div>
 
 
