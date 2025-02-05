@@ -46,15 +46,13 @@
     <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
 </a>
 
-<h1>Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>!</h1>
+<h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>! 👋  </h1>  
 
-<p align='center'></p>
-
-<div>🌟 &nbsp;A <b style="color:#007bff;">passionate</b> and <b style="color:#007bff;">result-oriented</b> software developer with a relentless drive to <b style="color:#007bff;">innovate</b> and deliver <b style="color:#007bff;">impactful solutions</b>.</div>
-<div>💡 &nbsp;<b style="color:#007bff;">Highly skilled</b> in <b style="color:#007bff;">problem-solving</b>, I thrive in transforming <b style="color:#007bff;">complex challenges</b> into streamlined and <b style="color:#007bff;">efficient systems</b>.</div>
-<div>🚀 &nbsp;<b style="color:#007bff;">Dedicated</b> to <b style="color:#007bff;">continuous improvement</b>, I embrace <b style="color:#007bff;">emerging technologies</b> to stay ahead in the <b style="color:#007bff;">tech industry</b>.</div>
-<div>📚 &nbsp;On a journey to master <b style="color:#007bff;">cutting-edge tools</b> and <b style="color:#007bff;">frameworks</b>, while <b style="color:#007bff;">mentoring</b> others to achieve their goals.</div>
-<div>🎯 &nbsp;My mission is to make a <b style="color:#007bff;">meaningful impact</b> by leveraging <b style="color:#007bff;">technology</b> to solve <b style="color:#007bff;">real-world problems</b> effectively.</div>
+🌟 **_A passionate and result-oriented software developer_** with a relentless drive to **innovate** and deliver **impactful solutions**.  
+💡 **_Highly skilled in problem-solving_**, I thrive in transforming **complex challenges** into **_streamlined and efficient systems_**.  
+🚀 **_Dedicated to continuous improvement_**, I embrace **emerging technologies** to stay ahead in the **_tech industry_**.  
+📚 On a journey to **_master cutting-edge tools_** and **frameworks**, while **_mentoring others_** to achieve their **goals**.  
+🎯 My mission is to make a **_meaningful impact_** by leveraging **technology** to solve **_real-world problems_** effectively.
 
 ---
 
