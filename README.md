@@ -50,11 +50,11 @@
 
 <p align='center'></p>
 
-<div>🌟 &nbsp;A <b>passionate</b> and <b>result-oriented</b> software developer with a relentless drive to <b>innovate</b> and deliver <b>impactful solutions</b>.</div>
-<div>💡 &nbsp;<b>Problem-solving</b> expert, thriving in transforming <b>complex challenges</b> into <b>efficient systems</b>.</div>
-<div>🚀 &nbsp;<b>Continuous improvement</b> advocate, embracing <b>emerging technologies</b> to stay ahead in the <b>tech industry</b>.</div>
-<div>📚 &nbsp;On a journey to master <b>cutting-edge tools</b> and <b>frameworks</b>, while <b>mentoring</b> others to achieve their goals.</div>
-<div>🎯 &nbsp;Mission: To make a <b>meaningful impact</b> by leveraging <b>technology</b> to solve <b>real-world problems</b> effectively.</div>
+<div>🌟 &nbsp;A <b style="color:#007bff;">passionate</b> and <b style="color:#007bff;">result-oriented</b> software developer with a relentless drive to <b style="color:#007bff;">innovate</b> and deliver <b style="color:#007bff;">impactful solutions</b>.</div>
+<div>💡 &nbsp;<b style="color:#007bff;">Highly skilled</b> in <b style="color:#007bff;">problem-solving</b>, I thrive in transforming <b style="color:#007bff;">complex challenges</b> into streamlined and <b style="color:#007bff;">efficient systems</b>.</div>
+<div>🚀 &nbsp;<b style="color:#007bff;">Dedicated</b> to <b style="color:#007bff;">continuous improvement</b>, I embrace <b style="color:#007bff;">emerging technologies</b> to stay ahead in the <b style="color:#007bff;">tech industry</b>.</div>
+<div>📚 &nbsp;On a journey to master <b style="color:#007bff;">cutting-edge tools</b> and <b style="color:#007bff;">frameworks</b>, while <b style="color:#007bff;">mentoring</b> others to achieve their goals.</div>
+<div>🎯 &nbsp;My mission is to make a <b style="color:#007bff;">meaningful impact</b> by leveraging <b style="color:#007bff;">technology</b> to solve <b style="color:#007bff;">real-world problems</b> effectively.</div>
 
 ---
 
