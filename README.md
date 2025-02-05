@@ -45,18 +45,16 @@
 <a href="https://leetcode.com/u/alperensumeroglu/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
 </a>
- <!-- About Me Section -->
-<div>
-  <h3 style="font-size: 8px;">About Me</h3>
-  <ul style="font-size: 4px; line-height: 0.9;">
-    <li>🎓 I am currently studying at university, focusing on programming and software development.</li>
-    <li>📌 I am interested in Python programming, C, and C#.</li>
-    <li>⚡ In my free time, I enjoy reading tech articles and improving my coding skills.</li>
-    <li>💻 I love writing code and learning new technologies.</li>
-    <li>📧 How to reach me: <a href="mailto:alperennsumeroglu@gmail.com" style="color:blue; font-size: 4px;">alperensumeroglu@gmail.com</a></li>
-    <li>🌐 My website: <a href="https://bento.me/alperensumeroglu" style="color:blue; font-size: 4px;">alperensumeroglu</a></li>
-  </ul>
-</div>
+
+<h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>!  </h1>
+<p align='center'>
+</p>
+
+<div size='20px'>🌟 &nbsp;A passionate and result-oriented software developer with a relentless drive to innovate and deliver impactful solutions.</div>
+<div size='20px'>💡 &nbsp;Highly skilled in problem-solving, I thrive in transforming complex challenges into streamlined and efficient systems.</div>
+<div size='20px'>🚀 &nbsp;Dedicated to continuous improvement, I embrace emerging technologies to stay ahead in the tech industry.</div>
+<div size='20px'>📚 &nbsp;On a journey to master cutting-edge tools and frameworks, while mentoring others to achieve their goals.</div>
+<div size='20px'>🎯 &nbsp;My mission is to make a meaningful impact by leveraging technology to solve real-world problems effectively.</div> 
 
 ---
 
