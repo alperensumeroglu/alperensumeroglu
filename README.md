@@ -55,7 +55,7 @@
 
 <!-- Languages and Tools Section -->
 <div>
-  <h3 align="center" style="font-size: 14px;">Languages & Frameworks & Tools</h3>
+  <h3 align="center" style="font-size: 14px;">⚙️ Languages & Frameworks & Tools</h3>
 </div>
   <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
@@ -66,9 +66,10 @@
 
 ---
 
-<div style="text-align: center;">
-  <details>
-    <summary style="display: inline-block; cursor: pointer;">Click to learn more 👈🏻</summary>
+<details align="center">
+  <summary>Click to learn more 👈🏻</summary>
+   <p>
+    
   <!-- My Stats Section -->
 <div style="text-align: center; margin-top: 20px;">
   <h3 style="font-size: 18px; margin-bottom: 10px;">🔥 My Stats 🔥</h3>
