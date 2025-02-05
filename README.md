@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/alperensumeroglu">
+<a href="https://www.linkedin.com/in/alperensumeroglu">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=2000&pause=100&multiline=true&width=600&height=60&lines=Alperen+Sümeroğlu;Data+Scientist+%7C+Machine+Learning+Engineer+%7C+Computer+Engineering+Student;Artificial+Intelligence+%7C+Deep+Learning+%7C+Natural+Language+Processing&color=1E90FF" alt="Typing SVG" />
 </a>
 </p>
