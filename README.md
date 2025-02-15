@@ -8,6 +8,9 @@
   <a href="https://leetcode.com/alperensumeroglu/">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge" style="height: 20px;"/>
   </a>
+  <a href="https://app.daily.dev/alperensumeroglu">
+    <img src="https://img.shields.io/badge/DAILY.DEV-1B1F23?style=flat&logo=daily.dev&logoColor=white" alt="Daily.dev Badge" style="height: 20px;"/>
+  </a>
   <a href="https://www.kaggle.com/alperensmerolu">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge" style="height: 20px;"/>
   </a>
