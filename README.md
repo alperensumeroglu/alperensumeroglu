@@ -2,29 +2,26 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="60"/>
 
   <div id="badges" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/alperensumeroglu/">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
+   <a href="https://www.linkedin.com/in/alperensumeroglu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px;"/>
   </a>
   <a href="https://leetcode.com/alperensumeroglu/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge" style="height: 20px;"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 20px;/>
   </a>
   <a href="https://app.daily.dev/alperensumeroglu">
-    <img src="https://img.shields.io/badge/DAILY.DEV-1B1F23?style=flat&logo=daily.dev&logoColor=white" alt="Daily.dev Badge" style="height: 20px;"/>
+  <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;/>
   </a>
   <a href="https://www.kaggle.com/alperensmerolu">
-    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge" style="height: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alperensumeroglu">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="height: 20px;"/>
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 20px;"/>
   </a>
   <a href="https://www.instagram.com/alperen_sumeroglu/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" style="height: 20px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 20px;"/>
   </a>
   <a href="https://medium.com/@alperensumeroglu">
     <img src="https://img.shields.io/badge/MEDIUM-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" style="height: 20px; width: 80px;"/>
   </a>
   <a href="mailto:alperensumeroglu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="height: 20px;"/>
+   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 20px;"/>
   </a>
 </div>
 
