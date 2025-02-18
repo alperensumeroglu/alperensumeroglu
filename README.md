@@ -47,12 +47,15 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <!-- Daily.dev card -->
   <a href="https://app.daily.dev/alperensumeroglu">
-    <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=wide&r=hez" width="400" alt="Alperen Sümeroğlu's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=wide&r=hez" width="350" alt="Alperen Sümeroğlu's Dev Card"/>
 </a>
 
 <!-- LeetCode Stats Card -->
 <a href="https://leetcode.com/u/alperensumeroglu/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="320" />
+    <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="280" />
+</a>
+<a href="https://stackoverflow.com/users/29701785/alperen-s%C3%BCmero%C4%9Flu">
+    <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=29701785&period=year&theme=dark&layout=full" alt="Stack Overflow Stats" width="360">
 </a>
 
 <h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>! 👋  </h1>  
