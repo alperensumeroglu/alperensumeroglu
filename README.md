@@ -11,6 +11,9 @@
   <a href="https://app.daily.dev/alperensumeroglu">
   <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;/>
   </a>
+  <a href="https://www.linkedin.com/in/alperensumeroglu">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="height: 20px;"/>
+  </a>
   <a href="https://www.kaggle.com/alperensmerolu">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 20px;"/>
   </a>
