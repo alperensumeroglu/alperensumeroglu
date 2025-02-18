@@ -11,6 +11,9 @@
   <a href="https://app.daily.dev/alperensumeroglu">
   <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;/>
   </a>
+ <a href="https://stackoverflow.com/users/29701785/alperen-sümeroğlu">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 20px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/alperensumeroglu">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="height: 20px;"/>
   </a>
