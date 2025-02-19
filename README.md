@@ -1,36 +1,34 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="60"/>
-
+  
   <div id="badges" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 10px;">
-   <a href="https://www.linkedin.com/in/alperensumeroglu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px;"/>
-  </a>
-  <a href="https://leetcode.com/alperensumeroglu/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 20px;/>
-  </a>
-  <a href="https://app.daily.dev/alperensumeroglu">
-  <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;/>
-  </a>
- <a href="https://stackoverflow.com/users/29701785/alperen-sümeroğlu">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alperensumeroglu">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="height: 20px;"/>
-  </a>
-  <a href="https://www.kaggle.com/alperensmerolu">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 20px;"/>
-  </a>
-  <a href="https://www.instagram.com/alperen_sumeroglu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 20px;"/>
-  </a>
-  <a href="https://medium.com/@alperensumeroglu">
-    <img src="https://img.shields.io/badge/MEDIUM-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" style="height: 20px; width: 80px;"/>
-  </a>
-  <a href="mailto:alperensumeroglu@gmail.com">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 20px;"/>
-  </a>
-</div>
-
+    <a href="https://www.linkedin.com/in/alperensumeroglu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px;"/>
+    </a>
+    <a href="https://leetcode.com/alperensumeroglu/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 20px;"/>
+    </a>
+    <a href="https://app.daily.dev/alperensumeroglu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;"/>
+    </a>
+    <a href="https://stackoverflow.com/users/29701785/alperen-sümeroğlu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 20px;"/>
+    </a>
+    <a href="https://alperensumeroglu.dev" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="height: 20px;"/>
+    </a>
+    <a href="https://www.kaggle.com/alperensmerolu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 20px;"/>
+    </a>
+    <a href="https://www.instagram.com/alperen_sumeroglu/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 20px;"/>
+    </a>
+    <a href="https://medium.com/@alperensumeroglu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/MEDIUM-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" style="height: 20px; width: 80px;"/>
+    </a>
+    <a href="mailto:alperensumeroglu@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 20px;"/>
+    </a>
   </div>
 </div>
 
@@ -46,17 +44,20 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <!-- Daily.dev card -->
-  <a href="https://app.daily.dev/alperensumeroglu">
+  <a href="https://app.daily.dev/alperensumeroglu" target="_blank" rel="noopener noreferrer">
     <img src="https://api.daily.dev/devcards/v2/AdGr8J8AzXW7kvWDM87LO.png?type=wide&r=hez" width="280" alt="Alperen Sümeroğlu's Dev Card"/>
-</a>
+  </a>
 
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/alperensumeroglu/" target="_blank">
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/alperensumeroglu/" target="_blank" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/alperensumeroglu?theme=dark&font=Karma&ext=heatmap" alt="alperensumeroglu-leetcode" width="230" />
-</a>
-<a href="https://stackoverflow.com/users/29701785/alperen-s%C3%BCmero%C4%9Flu">
+  </a>
+  
+  <!-- Stack Overflow Stats -->
+  <a href="https://stackoverflow.com/users/29701785/alperen-s%C3%BCmero%C4%9Flu" target="_blank" rel="noopener noreferrer">
     <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=29701785&period=year&theme=dark&layout=full" alt="Stack Overflow Stats" width="290">
-</a>
+  </a>
+</div>
 
 <h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>! 👋  </h1>  
 
