@@ -20,6 +20,9 @@
     <a href="https://www.kaggle.com/alperensmerolu" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 20px;"/>
     </a>
+    <a href="https://www.upwork.com/freelancers/~013f547b23de08d894" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" style="height: 20px;"/>
+     </a>
     <a href="https://www.instagram.com/alperen_sumeroglu/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 20px;"/>
     </a>
@@ -35,9 +38,9 @@
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alperensumeroglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=2000&pause=100&multiline=true&width=600&height=60&lines=Alperen+Sümeroğlu;Data+Scientist+%7C+Machine+Learning+Engineer+%7C+Computer+Engineering+Student;Artificial+Intelligence+%7C+Deep+Learning+%7C+Natural+Language+Processing&color=1E90FF" alt="Typing SVG" />
-</a>
+    <a href="https://www.linkedin.com/in/alperensumeroglu">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=2000&pause=100&multiline=true&width=760&height=80&lines=Alperen+Sümeroğlu;Computer+Engineer+%7C+AI+Specialist+%7C+ML+Architect;Deep+Learning+Researcher+%7C+NLP+Engineer;Innovating+the+Future+with+Artificial+Intelligence" alt="Typing SVG" />
+    </a>
 </p>
 
 ---
