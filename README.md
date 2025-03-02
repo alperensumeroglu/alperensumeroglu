@@ -11,6 +11,9 @@
     <a href="https://app.daily.dev/alperensumeroglu" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" style="height: 20px;"/>
     </a>
+    <a href="https://www.codewars.com/users/alperensumeroglu" target="_blank" rel="noopener noreferrer">
+       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" style="height: 20px;"/>
+    </a>
     <a href="https://stackoverflow.com/users/29701785/alperen-sümeroğlu" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 20px;"/>
     </a>
