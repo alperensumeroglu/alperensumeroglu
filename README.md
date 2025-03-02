@@ -60,6 +60,13 @@
   <a href="https://stackoverflow.com/users/29701785/alperen-s%C3%BCmero%C4%9Flu" target="_blank" rel="noopener noreferrer">
     <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=29701785&period=year&theme=dark&layout=full" alt="Stack Overflow Stats" width="290">
   </a>
+  
+   <!-- Codewars Stats -->
+  <div style="width: 100%; display: flex; justify-content: center; margin-top: 10px;">
+    <a href="https://www.codewars.com/users/alperensumeroglu" target="_blank">
+      <img src="https://www.codewars.com/users/alperensumeroglu/badges/large" alt="Codewars Stats" />
+    </a>
+  </div>
 </div>
 
 <h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>! 👋  </h1>  
