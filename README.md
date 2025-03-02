@@ -65,11 +65,11 @@
   </a>
   
    <!-- Codewars Stats -->
-  <div style="width: 100%; display: flex; justify-content: center; margin-top: 10px;">
+  <h3 align="center">
     <a href="https://www.codewars.com/users/alperensumeroglu" target="_blank">
-      <img src="https://www.codewars.com/users/alperensumeroglu/badges/large" alt="Codewars Stats" />
+        <img src="https://www.codewars.com/users/alperensumeroglu/badges/large" alt="Codewars Stats" width="250"/>
     </a>
-  </div>
+  </h3>
 </div>
 
 <h1>  Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/alperensumeroglu/">Alperen Sümeroğlu</a>! 👋  </h1>  
